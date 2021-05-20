@@ -1,0 +1,27 @@
+var structHFTrackIndexSkimsCreator =
+[
+    [ "SelectedTracks", "df/d1c/structHFTrackIndexSkimsCreator.html#a7cd45fee1adf9596ec472280aef59d6f", null ],
+    [ "process", "df/d1c/structHFTrackIndexSkimsCreator.html#a42e0d617b52004a9415da1280cda3431", null ],
+    [ "bz", "df/d1c/structHFTrackIndexSkimsCreator.html#a788cb3848fc9338e8e1d175a34cd01fe", null ],
+    [ "configs", "df/d1c/structHFTrackIndexSkimsCreator.html#aaf41f5e44826fa52831ba140187f292e", null ],
+    [ "debug", "df/d1c/structHFTrackIndexSkimsCreator.html#ade7cba4fd6359a001dd902a70cf15393", null ],
+    [ "do3prong", "df/d1c/structHFTrackIndexSkimsCreator.html#aee067af9ec76edb9a90631fef64c13d1", null ],
+    [ "dovalplots", "df/d1c/structHFTrackIndexSkimsCreator.html#a574893b26054a892f21128a6679cdd2a", null ],
+    [ "filterSelectTracks", "df/d1c/structHFTrackIndexSkimsCreator.html#af1f86a0de70eefc3775f1dd31cb3fd00", null ],
+    [ "massElectron", "df/d1c/structHFTrackIndexSkimsCreator.html#a5e5d4a8699c26c561cbd5833d60d3e77", null ],
+    [ "massK", "df/d1c/structHFTrackIndexSkimsCreator.html#a1e968fae8fc73ff6742197e46488449a", null ],
+    [ "massPi", "df/d1c/structHFTrackIndexSkimsCreator.html#a3d5ba5db2bcc0280f86e5a2c0d14dc15", null ],
+    [ "massProton", "df/d1c/structHFTrackIndexSkimsCreator.html#a3bd0f7a4814ec2858836c8a128596343", null ],
+    [ "maxdzini", "df/d1c/structHFTrackIndexSkimsCreator.html#a280a16f915b1ceae8cf90159b12c685a", null ],
+    [ "maxr", "df/d1c/structHFTrackIndexSkimsCreator.html#a81d607695bb18b6b532c11202604a0ba", null ],
+    [ "minparamchange", "df/d1c/structHFTrackIndexSkimsCreator.html#a91008ccf3a6469b7412eb40fa8edd09d", null ],
+    [ "minrelchi2change", "df/d1c/structHFTrackIndexSkimsCreator.html#a4da020e292d473738f67f0bec8f6194d", null ],
+    [ "propdca", "df/d1c/structHFTrackIndexSkimsCreator.html#a4e5c64d87f2ef43fd42718f902d36fdb", null ],
+    [ "registry", "df/d1c/structHFTrackIndexSkimsCreator.html#a83d6894184ada83a8870b03c931fd9ed", null ],
+    [ "rowProng2CutStatus", "df/d1c/structHFTrackIndexSkimsCreator.html#aab1e8e7552264f9643c8d06c6c82fea4", null ],
+    [ "rowProng3CutStatus", "df/d1c/structHFTrackIndexSkimsCreator.html#a5ee96fda5282da29bf9e5c8c3a36d22b", null ],
+    [ "rowTrackIndexProng2", "df/d1c/structHFTrackIndexSkimsCreator.html#a55014cc22fce009a7c9d1fc4a3a6d64c", null ],
+    [ "rowTrackIndexProng3", "df/d1c/structHFTrackIndexSkimsCreator.html#ab1f57b128c7de9a4f1c5911651b232b1", null ],
+    [ "triggerindex", "df/d1c/structHFTrackIndexSkimsCreator.html#ae3efe52b70aee9beadb2b34e3ffa2569", null ],
+    [ "useAbsDCA", "df/d1c/structHFTrackIndexSkimsCreator.html#a3506461994ad7c82ee82f97ca517b7e9", null ]
+];
